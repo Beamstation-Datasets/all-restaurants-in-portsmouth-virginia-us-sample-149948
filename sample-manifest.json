@@ -1,0 +1,12 @@
+{
+  "export_job_id": "6969184f-f059-443e-a42e-801df747919b",
+  "id_short": 149948,
+  "published_at": "2026-04-10T19:16:29Z",
+  "repo_name": "all-restaurants-in-portsmouth-virginia-us-sample-149948",
+  "sample_asset_name": "beamstation_149948_restaurants-us-va_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/149948/beamstation_149948_restaurants-us-va_SAMPLE_DIST.csv",
+  "sample_records": 22,
+  "sample_sha256": "1c453cbc9c215853db6ccb1e24b172bff75082bf15da8c64922e31fb083522ac",
+  "sample_size_bytes": 103009,
+  "total_records": 222
+}
