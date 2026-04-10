@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Portsmouth, Virginia. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Portsmouth, Virginia, US",
+  "export_job_id": "6969184f-f059-443e-a42e-801df747919b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 149948,
+  "location_name": "Portsmouth",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-portsmouth-virginia-us-sample-149948",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/149948/beamstation_149948_restaurants-us-va_SAMPLE_DIST.csv",
+  "sample_pct": 9.91,
+  "sample_records": 22,
+  "sample_sha256": "1c453cbc9c215853db6ccb1e24b172bff75082bf15da8c64922e31fb083522ac",
+  "sample_size_bytes": 103009,
+  "total_records": 222,
+  "updated_at": "2026-03-31T15:08:31.933309+00:00"
+}
