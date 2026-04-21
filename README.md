@@ -1,6 +1,6 @@
 # All Restaurants in Portsmouth, Virginia, US
 
-> Free BeamStation sample export with 23 rows and masked direct-contact fields.
+> Free BeamStation sample export with 8 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `149948` |
 | Location | Portsmouth |
 | Category | Restaurants |
-| Full dataset size | 236 records |
-| Free sample size | 23 records (9.75%) |
-| Last export | 2026-04-14T15:51:37.314019+00:00 |
+| Full dataset size | 82 records |
+| Free sample size | 8 records (9.76%) |
+| Last export | 2026-04-21T17:07:16.324351+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-portsmouth-virginia-us-sample-149948/releases/download/sample-latest/beamstation_149948_restaurants-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
